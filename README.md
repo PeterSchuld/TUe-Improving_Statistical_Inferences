@@ -1,6 +1,25 @@
 # TUe Improving Statistical Inferences
 Eindhoven University of Technology (TU/e) course "Improving your statistical inferences" by Daniel Lakens on Coursera. 
 
+### Instructor
+Daniel Lakens - Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e)
+
+
+### All the code is contained in R files, and two MS Excel files:
+This course examines many statistical concepts through simulations or calculations in the free software R. 
+
+
+### Programming Language
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+
+
+### The following packages (libraries) need to be installed
+GPowerWin_3.1.9.7
+
+### Licence
+The work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Course Description
 This course aims to help you to draw better statistical inferences from empirical research. First, we will discuss how to correctly interpret p-values, effect sizes,
 confidence intervals, Bayes Factors, and likelihood ratios, and how these statistics answer different questions you might be interested in. Then, you will learn how to
 design experiments where the false positive rate is controlled, and how to decide upon the sample size for your study, for example in order to achieve high statistical
