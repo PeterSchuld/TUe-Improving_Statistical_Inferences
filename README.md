@@ -5,10 +5,10 @@ Eindhoven University of Technology (TU/e) course "Improving your statistical inf
 Daniel Lakens - Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e)
 
 ### Open Science assignment
-In assignments 7, you will define a theoretical hypothesis, translate it into a statistical hypothesis, design a study to test your hypothesis, collect the data,
+In assignments 7, I define a theoretical hypothesis, translate it into a statistical hypothesis, design a study to test my hypothesis, collect the data,
 report the results, create a reproducible analysis file, and publicly share the data, the analysis file, and the research report publicly online. Learning these Open
-Science practices will allow you to share all aspects of your research with others. To keep the research project in this assignment feasible, the data collection will
-consist of movie ratings on the IMDB. You can come up with any hypothesis you want, as long as we can test it based on the IMDB ratings of movies! This assignment will
+Science practices will allow to share all aspects of my research with others. To keep the research project in this assignment feasible, the data collection will
+consist of movie ratings on the IMDB. I can come up with any hypothesis Iu want, as long as it can be tested based on the IMDB ratings of movies! This assignment will
 be peer-reviewed by fellow students.
 
 #### My submission on public Open Science Framework page
