@@ -26,7 +26,11 @@ R version 4.1.2 (2021-11-01) -- "Bird Hippie"
 
 
 ### The following packages (libraries) need to be installed
-GPowerWin_3.1.9.7
+TOSTER - Two One-Sided Tests (TOST) Equivalence Testing  
+
+### The following software is used 
+G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
+           ( https://download.cnet.com/G-Power/3000-2054_4-10647044.html )
 
 ### Licence
 The work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/
