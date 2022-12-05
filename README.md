@@ -1,8 +1,8 @@
 # TUe Improving Statistical Inferences
-Eindhoven University of Technology (TU/e) course "Improving your statistical inferences" by Daniel Lakens on Coursera. 
+Eindhoven University of Technology (TU/e) course "Improving your statistical inferences" by Daniël Lakens on Coursera. 
 
 ### Instructor
-Daniel Lakens - Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e)
+Daniël Lakens - Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e)
 
 ### Open Science assignment
 In assignments 7, I define a theoretical hypothesis, translate it into a statistical hypothesis, design a study to test my hypothesis, collect the data,
