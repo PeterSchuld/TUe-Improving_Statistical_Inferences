@@ -28,6 +28,9 @@ R version 4.1.2 (2021-11-01) -- "Bird Hippie"
 ### The following packages (libraries) need to be installed
 TOSTER - Two One-Sided Tests (TOST) Equivalence Testing  
 
+You can install TOSTER in R using: install.packages('TOSTER'). 
+Alternatively, you can download a spreadsheet to perform these calculations: https://osf.io/qzjaj/
+
 ### The following software is used 
 G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
            ( https://download.cnet.com/G-Power/3000-2054_4-10647044.html )
