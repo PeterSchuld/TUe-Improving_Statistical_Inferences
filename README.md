@@ -1,5 +1,12 @@
 # TUe Improving Statistical Inferences
-Eindhoven University of Technology (TU/e) course "Improving your statistical inferences" by Daniël Lakens on Coursera. 
+Eindhoven University of Technology (TU/e) course "Improving your statistical inferences" by Daniël Lakens on Coursera 
+
+(completed December 26, 2022). 
+
+
+![image](https://user-images.githubusercontent.com/59873708/219953184-f98e37d3-048a-4c99-9b8f-b19f892ffa8a.png)
+
+
 
 ### Instructor
 Daniël Lakens - Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e)
